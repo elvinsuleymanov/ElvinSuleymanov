@@ -2,9 +2,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
+<p align="center">
   <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=40&animation=glow" alt="linux" />&nbsp;&nbsp; &nbsp;&nbsp;
   <img src="https://www.readmecodegen.com/api/social-icon?name=kalilinux&size=40&animation=glow&color=%238b5cf6" alt="kalilinux" />&nbsp;&nbsp; &nbsp;&nbsp;
   <img src="https://www.readmecodegen.com/api/social-icon?name=ubuntu&size=40&animation=glow" alt="ubuntu" />&nbsp;&nbsp; &nbsp;&nbsp;
